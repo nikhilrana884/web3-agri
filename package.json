@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nikhilrana884/web3-agri/issues"
   },
-  "homepage": "https://github.com/nikhilrana884/web3-agri#readme"
+  "homepage": "https://github.com/nikhilrana884/web3-agri#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.6"
+  }
 }
